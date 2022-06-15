@@ -1,4 +1,4 @@
-# PigGame
+# Pig Game
 A dice game in which the goal is to reach 100 points before the other player. Play with a friend!
 
 ## How to run the code
